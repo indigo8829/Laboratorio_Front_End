@@ -104,6 +104,6 @@ https://www.linkedin.com/in/estefanía-molina-giménez-670913277
 
 🌐 Bitácora Digital
 
-(Próximamente)
+https://bitacora-digital-lac.vercel.app/
 
 📧 indigoespiritu@gmail.com
